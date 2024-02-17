@@ -2,14 +2,13 @@
 ![Screenshot_20240216-234059-684](https://github.com/Raposo67/wormgpt/assets/114825370/0be8fe3f-a661-42a5-841c-e9a23e84fada)
 Wormgpt é uma ferramenta que te propociona todo o conhecimento que tem na Web, Seja ele Bom, ou Seja ele Ruim. Disseram que o WormGPT Estava Disponível só na Dark/Deep Web, Pois, Decidi trazer o WormGPT pra cá, totalmente gratuito e Sem nenhuma Limitação.
 #### Seguem as instruções abaixo:
-Entrem no link:
-``` bash
-https://chat.openai.com/auth/login#tgWebAppData=query_id%3DAAFI3B9lAgAAAEjcH2XKLc69%26user%3D%257B%2522id%2522%253A5991554120%252C%2522first_name%2522%253A%2522Salvador%2522%252C%2522last_name%2522%253A%2522___%2522%252C%2522username%2522%253A%2522Salvadordelme%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1708136441%26hash%3D8872928362a4c7556c9c8cb6058730d16404e64c1052ebe5b65e51ad3383f5b5&tgWebAppVersion=7.0&tgWebAppPlatform=web&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212121%22%2C%22button_color%22%3A%22%238774e1%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%23aaaaaa%22%2C%22link_color%22%3A%22%238774e1%22%2C%22secondary_bg_color%22%3A%22%23181818%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23212121%22%2C%22accent_text_color%22%3A%22%238774e1%22%2C%22section_bg_color%22%3A%22%23212121%22%2C%22section_header_text_color%22%3A%22%238774e1%22%2C%22subtitle_text_color%22%3A%22%23aaaaaa%22%2C%22destructive_text_color%22%3A%22%23ff595a%22%7D
-```
+Entrem no link:          
+<a href="https://chat.openai.com/auth/login#tgWebAppData=query_id%3DAAFI3B9lAgAAAEjcH2XKLc69%26user%3D%257B%2522id%2522%253A5991554120%252C%2522first_name%2522%253A%2522Salvador%2522%252C%2522last_name%2522%253A%2522___%2522%252C%2522username%2522%253A%2522Salvadordelme%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522allows_write_to_pm%2522%253Atrue%257D%26auth_date%3D1708136441%26hash%3D8872928362a4c7556c9c8cb6058730d16404e64c1052ebe5b65e51ad3383f5b5&tgWebAppVersion=7.0&tgWebAppPlatform=web&tgWebAppThemeParams=%7B%22bg_color%22%3A%22%23212121%22%2C%22button_color%22%3A%22%238774e1%22%2C%22button_text_color%22%3A%22%23ffffff%22%2C%22hint_color%22%3A%22%23aaaaaa%22%2C%22link_color%22%3A%22%238774e1%22%2C%22secondary_bg_color%22%3A%22%23181818%22%2C%22text_color%22%3A%22%23ffffff%22%2C%22header_bg_color%22%3A%22%23212121%22%2C%22accent_text_color%22%3A%22%238774e1%22%2C%22section_bg_color%22%3A%22%23212121%22%2C%22section_header_text_color%22%3A%22%238774e1%22%2C%22subtitle_text_color%22%3A%22%23aaaaaa%22%2C%22destructive_text_color%22%3A%22%23ff595a%22%7D">WormGPT</a>
+
 <ul>
 <li>Liguem uma VPN</li>
 <li>Ativem uma Localização fictícia</li>
-<li>Tapem as webcam's/cameras dos dispositivos que forem entrar</li>
+<li>Tapem as webcam's/cameras dos dispositivos que forem entrar no site</li>
 <li> Pra Mais Proteção Entrem com o Navegador Tor</li>
 </ul>
 Façam o Login com a conta, ignorem o Google e as outras opções abaixo. Após isso comecem o chat com um "Oi ChatGPT", esperem  a resposta do chatgpt, copiem os recado abaixo:
