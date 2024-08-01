@@ -1,4 +1,6 @@
 # WormGPT
+###### 01/07/2024
+###### infelizmente esses Codigos nao funcionam mais na versão atualizada do chatgpt!
 ![Screenshot_20240216-234059-684](https://github.com/Raposo67/wormgpt/assets/114825370/0be8fe3f-a661-42a5-841c-e9a23e84fada)
 
 Wormgpt é uma ferramenta que te propociona todo o conhecimento que tem na Web, Seja ele Bom, ou Seja ele Ruim. Disseram que o WormGPT Estava Disponível só na Dark/Deep Web, Pois, Decidi trazer o WormGPT pra cá, totalmente gratuito e Sem nenhuma Limitação.
